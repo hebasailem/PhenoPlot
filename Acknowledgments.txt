@@ -1,0 +1,15 @@
+Acknowledgments
+We used code from the following resources for some PhenoPlot functions.
+1- To fill an ellipse with market (texture) we used 'ellipsegrid' 
+2- The code for drawing ellipse are adapted from http://stackoverflow.com/questions/2153768/draw-ellipse-and-ellipsoid-in-matlab
+3- To divide ellipse border in n equally spaced points: http://www.mathworks.co.uk/matlabcentral/newsreader/view_thread/238974
+4- Colormaps in PhenoPlots use schemes defined by colorbrewer: http://www.mathworks.com/matlabcentral/fileexchange/34087-cbrewer---colorbrewer-schemes-for-matlab. 
+
+Optional
+Code that is used in the demo files but not essential for the PhenoPlots"
+1- Figures are best viewed when the window is maximized. I used 'maximize' function from Matlab File Exchange website.
+2- Figures are best saved to eps or pdf format. I used 'export_fig' Matlab File Exchange to export figures to pdf. This requires Ghostscript see help file.
+4- heatmap function from http://www.mathworks.co.uk/matlabcentral/fileexchange/24253-customizable-heat-maps
+
+Heba Sailem, Nov 2014
+
